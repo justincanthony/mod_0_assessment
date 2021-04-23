@@ -1,0 +1,10 @@
+var famousPerson = "Christian Bale";
+var isActive = true;
+famousPerson = "Tom Hardy";
+var num3 = 3;
+var num9 = 9;
+var sum = num3 + num9;
+console.log(sum);
+var animals = ["lions", "tigers", "bears"];
+animals.shift();
+console.log(famousPerson.length);
