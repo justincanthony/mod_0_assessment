@@ -1,6 +1,6 @@
 var airportItaly = {
   name: "Malpensa",
-  location: ("Milan"),
+  location: "Milan",
   numOfTerminals: 4,
   numOfairlines: 20,
   isConvenient: true,
